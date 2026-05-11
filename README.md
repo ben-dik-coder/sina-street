@@ -22,4 +22,4 @@ npm start
 
 ## Deploy
 
-[Koble repo til Vercel](https://vercel.com) — bygg: `npm run build`. Lokale bilder: `public/images/` (f.eks. `hero.png`).
+[Koble repo til Vercel](https://vercel.com) — bygg: `npm run build`, output for Next.js settes automatisk. Lokale bilder: `public/images/` (f.eks. `hero.png`).
