@@ -159,8 +159,8 @@ export function Hero() {
               <span className="text-accent italic">i Narvik</span>
             </h1>
             <p className="mt-4 text-base leading-relaxed text-white/85 md:text-lg">
-              Burgere, sushi, pizza og mer laget ferskt med gode råvarer, hver
-              dag.
+              Burgere, sushi, pizza og mer – laget ferskt hver dag med gode
+              råvarer.
             </p>
             <div className="mt-5 flex items-center gap-2 text-sm text-white/90">
               <Star
